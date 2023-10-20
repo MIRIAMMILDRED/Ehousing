@@ -1,0 +1,2 @@
+# Ehousing
+a project that gives you the flexibility of finding a rental house from anywhere, it has a feature that connects the landlord with the tenants directly and also gives suggestions of close social amenities. The juicy part it gives access to service providers around likes of plumbers, electrician, network engineer and others. Finally , it provides you with a 3d feature that helps you choose the best choice of housing with a clear lease agreement.
